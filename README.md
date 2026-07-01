@@ -6,7 +6,7 @@ AI-powered application that analyzes CVs, compares them with job descriptions, a
 
 ## Live Demo
 
-Currently under development in Lovable.
+Currently under development in Lovable. 
 
 ## Problem
 
