@@ -1,4 +1,6 @@
-# AI CV & Cover Letter Generator
+### AI CV & Cover Letter Generator
+
+AI-powered application that compares CVs with job descriptions, calculates a match score, identifies skill gaps, and generates tailored cover letters.
 
 ## Overview
 
