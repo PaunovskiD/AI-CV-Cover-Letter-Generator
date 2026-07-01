@@ -39,7 +39,17 @@ Help job seekers create stronger, more targeted applications faster and increase
 
 ## Screenshots
 
-(Add screenshots here)
+### Homepage
+
+![Homepage](screenshots/homepage.jpg)
+
+### CV Input
+
+![CV Input](screenshots/cv-input.jpg)
+
+### Match Analysis
+
+![Match Analysis](screenshots/match-analysis.jpg)
 
 ## What I Learned
 
