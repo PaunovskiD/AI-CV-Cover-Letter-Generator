@@ -6,7 +6,7 @@ AI-powered application that analyzes CVs, compares them with job descriptions, a
 
 ## Live Demo
 
-(Add live demo link here)
+Currently under development in Lovable.
 
 ## Problem
 
@@ -35,7 +35,7 @@ This tool helps users improve their applications by analyzing the CV against a j
 
 ## Project Goal
 
-Help job seekers create stronger, more targeted applications faster.
+Help job seekers create stronger, more targeted applications faster and increase their interview opportunities.
 
 ## Screenshots
 
