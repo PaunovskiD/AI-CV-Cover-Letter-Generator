@@ -41,7 +41,7 @@ Help job seekers create stronger, more targeted applications faster and increase
 
 ### Homepage
 
-![Homepage](screenshots/homepage.jpg)
+![Homepage](screenshots/homepage.jpg) 
 
 ### CV Input
 
