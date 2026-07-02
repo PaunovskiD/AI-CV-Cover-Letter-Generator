@@ -8,7 +8,7 @@ AI-powered application that analyzes CVs, compares them with job descriptions, a
 
 ## Live Demo
 
-https://cv-match-ailovableapp.lovable.app/
+https://cv-match-ailovableapp.lovable.app/   
 
 ## Problem
 
